@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101_salamo_navbar/static/css/main.cfc76fb3.css",
+    "main.js": "/ws101_salamo_navbar/static/js/main.95f48a27.js",
+    "index.html": "/ws101_salamo_navbar/index.html",
+    "main.cfc76fb3.css.map": "/ws101_salamo_navbar/static/css/main.cfc76fb3.css.map",
+    "main.95f48a27.js.map": "/ws101_salamo_navbar/static/js/main.95f48a27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfc76fb3.css",
+    "static/js/main.95f48a27.js"
+  ]
+}
